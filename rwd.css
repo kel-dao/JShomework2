@@ -40,7 +40,7 @@ h5 {
 .main {
   background-color: aliceblue;
   font-size: 1em;
-  width: 60.8888889%;
+  width: 61%;
   float: left;
   font-family: 'Gafata', sans-serif;
   padding: 0.5em;
@@ -50,7 +50,7 @@ footer {
   margin-top: 10em;
   background-color: white;
   font-size: 1.2rem;
-  width: 61.8888889%;
+  width: 61%;
   float: left;
 }
 
@@ -71,7 +71,7 @@ input[type=submit] {
 form {
   padding-top: 0;
   padding: 0.5rem;
-  width: 35.7777778%;
+  width: 35%;
   float: right;
 }
 
