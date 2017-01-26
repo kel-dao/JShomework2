@@ -1,0 +1,95 @@
+body {
+  background-color: white;
+  font-family: 'Amatica SC', cursive;
+  margin: 36px auto;
+  width: 90%;
+}
+
+h1 {
+  font-family: 'Covered By Your Grace', cursive;
+  font-size: 4.5em;
+}
+
+h2 {
+  font-family: 'Covered By Your Grace', cursive;
+  font-size: 1.8em;
+  margin: 0;
+}
+
+h3 {
+  font-family: 'Covered By Your Grace', cursive;
+  font-size: 1.8em;
+}
+
+h4 {
+  font-size: 1.4em;
+  margin-top: -3em;
+}
+
+h5 {
+  font-size: 1.2em;
+  margin: 0;
+}
+
+.main h6 {
+  font-family: 'Covered By Your Grace', cursive;
+  font-size: 2em;
+  margin: 0.5em;
+}
+
+.main {
+  background-color: aliceblue;
+  font-size: 1em;
+  width: 60.8888889%;
+  float: left;
+  font-family: 'Gafata', sans-serif;
+  padding: 0.5em;
+}
+
+footer {
+  margin-top: 20em;
+  background-color: white;
+  font-size: 1.2rem;
+  width: 61.8888889%;
+  float: left;
+}
+
+input {
+  width: 100%;
+  border: 2px solid gray;
+  border-radius: 2px;
+  background-color: white;
+}
+
+input[type=submit] {
+  background-color: black;
+  color: white;
+  font-family: 'Amatica SC', cursive;
+  font-size: 2rem;
+}
+
+form {
+  padding-top: 0;
+  padding: 0.5rem;
+  width: 35.7777778%;
+  float: right;
+}
+
+textarea {
+  width: 100%;
+  box-sizing: border-box;
+  border-radius: 4px;
+  resize: none;
+}
+
+fieldset {
+  background-color: gainsboro;
+  font-size: 1.2rem;
+  font-weight: bold;
+}
+
+a {
+  font-weight: bold;
+  color: black;
+  font-style: italic;
+}
